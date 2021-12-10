@@ -1,0 +1,18 @@
+body {
+    height: 95vh;
+    width: 95vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+    color: rgb(185, 10, 10);
+}
+
+h1 {
+    width: 300px;
+    background: #6668ff;
+    text-align: center;
+    border-radius: 10px;
+    padding: 10px 0;
+}
